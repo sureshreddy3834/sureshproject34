@@ -1,0 +1,7 @@
+class Test
+{
+ public voi m1()
+ {
+
+ }
+}
